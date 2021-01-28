@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm currrently learning Lua and the Solar2D engine.
+"That ain't my bag, baby" - Gandalf
 
 <!--
 **Aythreuk/aythreuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
